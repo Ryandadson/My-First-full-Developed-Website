@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Welcome to my Journey!</title>
+</head>
+<body>
+    <header id="Home">
+        <h2>Welcome to my coding Journey!</h2>
+        <p>In this Website i Hope to Achieve showing the world my coding journey.</p>
+    </header>
+  <nav>
+    <a href="#Home">Home</a>
+    <a href="#HTML">HTML</a>
+    <a href="#CSS">CSS</a>
+    <a href="#Project-Development">Project development</a>
+  </nav>
+
+  <div>
+    <picture>
+      <img src="https://png.pngitem.com/pimgs/s/206-2069813_file-css-and-html-css-logo-svg-hd.png" alt="206-2069813_file-css-and-html-css-logo-svg-hd">
+    </picture>
+  </div>
+
+  <div id="HTML">
+      <h2>Hypertext Markup Language</h2>
+      <p>In HTML there is many factors that come into play it teaches the essentials. This has been true on my journey with code institute, they have taught me what it is used for and what is inputted into it 
+        for example along the way i have learned how to create a basic structure using navigation elements,headings, how to use and create forms. All of this i have found to be struggling but also enjoyable
+         the more I practice with it the better im getting below you will find a list of all that i have learnt through this journey so far.</p>
+      <p>Below you will find a list of just some of what I have learnt over the past few months.</p>
+      
+    <ul>
+        <li>HTML Document, HTML Structural Elements , HTML Content Elements</li>
+        <li>Text Elements, Divs/Spans, Comments</li>
+        <li>Attributes, Links, Lists, Tabels</li>
+        <li>Forms, Form inputs, Form button, Form validation </li>
+        <li>Media elements</li>
+        <li>Semantic web elements</li>
+    </ul>
+
+  </div>
+
+  <div id="CSS">
+      <h2>Cascading Style Sheets</h2>
+      <p>CSS also known as Cascading Style Sheets was a bit of a bumpy road to start with, going into it I found the beginning a bit awkward the attempts over adn over again until it worked styling plays a 
+        big part in any web page development as it is used to attract the users attention while also making it easy to navigate and use.</p>
+      <p>Below is a list of what i have experienced so far.</p>
+      <ul>
+        <li>CSS Syntax, CSS Selectors (type/class, id/attributes, pseudo classes), CSS Dom Selectors</li>
+        <li>Inline and embedded CSS, External CSS and Precedence, CSS Rules</li>
+        <li>Pixels, em & rem, percentage, vh & vw</li>
+        <li>Font Family, Font Color, Font Parameters, Font Position, Font Style</li>
+        <li>Background Positioning, Background Appearance, Background Source</li>
+        <li>Layout Interactions, Overflow and Float, Clear and Centering</li>
+      </ul>
+  </div>
+
+  <div id="Project-Development">
+      <h2>Project Development</h2>
+      <p>Here I would like to show you what i have planned for my future in coding and where I want it to go. You see that is only because I am a gamer and it intriguid me of the process behind those games
+       so I looked into studying online and found code institute and here I have learned to be confident in my own coding skill with the Project ideas i will list below.</p>
+      <ol>
+        <li>My own website that has a bit about me like an autobiography except it involves a project i have been working on for a few years creatively</li>
+        <li>Creating a security website for a loss and theft prevention for motor vehicles</li>
+        <li>Creating and developing my own game for the world to enjoy</li>
+      </ol>
+  </div>
+
+<footer>
+  <span>Find Me on:</span>
+  <a href="https://www.facebook.com/profile.php?id=100069015203519&sk=about" target="_blank" rel="noopener">Facebook</a>
+  <a href="https://www.linkedin.com/in/ryan-dadson-b19369211/" target="_blank" rel="noopener">Linkedin</a>
+</footer>
+</body>
+</html>
